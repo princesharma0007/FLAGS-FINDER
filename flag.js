@@ -2,7 +2,7 @@ let mainFrame = document.getElementById("Main-frame");
 
 mainFrame.className =
 "min-h-screen bg-gray-100 flex flex-col items-center p-8";  
-
+ 
 
 let heading = document.createElement("h1"); 
 
